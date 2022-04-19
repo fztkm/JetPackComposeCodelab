@@ -12,6 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LayoutsCodelab">
         <activity
+            android:name=".FirstBaselineToTopActivity"
+            android:exported="false"
+            android:label="@string/title_activity_first_baseline_to_top"
+            android:theme="@style/Theme.LayoutsCodelab" />
+        <activity
+            android:name=".CustomLayoutActivity"
+            android:exported="false"
+            android:label="@string/title_activity_custom_layout"
+            android:theme="@style/Theme.LayoutsCodelab" />
+        <activity
             android:name=".ScrollListActivity"
             android:exported="false"
             android:label="@string/title_activity_scroll_list"
