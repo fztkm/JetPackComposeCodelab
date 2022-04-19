@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LayoutsCodelab</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_scroll_list">ScrollListActivity</string>
 </resources>
